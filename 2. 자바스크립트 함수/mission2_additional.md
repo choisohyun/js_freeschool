@@ -10,6 +10,7 @@
     - 정해지지 않은 수(an indefinite number, 부정수) 인수를 배열로 나타낼 수 있음
     - 표현 : function myFun(a, b, ...manyMoreArgs)
     - Rest 파라미터 및 arguments 객체간 차이
+    
 Rest Parameter | arguments
 -------------- | ---------------
 구분된 이름이 주어지지 않은 유일한 대상 | 함수로 전달된 모든 인수
@@ -31,6 +32,6 @@ Rest Parameter | arguments
 > 객체(Object)는 가변
 
 ### 예제
-- [바로가기]()
+- [바로가기](https://github.com/choisohyun/js_freeschool/blob/master/2.%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%ED%95%A8%EC%88%98/function_call_by.js)
 
 - 참고: [Call by value & Call by reference](https://edu.goorm.io/learn/lecture/201/%EB%B0%94%EB%A1%9C-%EC%8B%A4%ED%96%89%ED%95%B4%EB%B3%B4%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-c%EC%96%B8%EC%96%B4/lesson/412515/call-by-value-and-call-by-reference), [자바스크립트 function](https://emflant.tistory.com/64)

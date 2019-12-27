@@ -5,10 +5,10 @@
 
 ## :pushpin: 미션 바로가기
 1. debugging 기술문서 정리
-    - [mission1_Debugging.md]()
+    - [mission1_Debugging.md](https://github.com/choisohyun/js_freeschool/blob/master/1.%20Node.JS%EC%99%80%20%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD/mission1_Debugging.md)
 2. 자바스크립트 함수 만들기 
-    - [mission2_function.js]()
-    - [mission2_additional.md]()
+    - [mission2_function.js](https://github.com/choisohyun/js_freeschool/blob/master/2.%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%ED%95%A8%EC%88%98/mission2_function.js)
+    - [mission2_additional.md](https://github.com/choisohyun/js_freeschool/blob/master/2.%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%ED%95%A8%EC%88%98/mission2_additional.md)
 2-2. default parameter 와 rest parameter  
 2-3. call by value, call by reference의 차이  
 3-1. getArea 함수 만들기  
@@ -27,10 +27,10 @@
 ## :memo: 알게 된 점 정리 바로가기
 
 1. Node.JS와 개발환경
-    - [What_I_Learned]()
+    - [What_I_Learned](https://github.com/choisohyun/js_freeschool/blob/master/1.%20Node.JS%EC%99%80%20%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD/What_I_Learned.md)
 2. 자바스크립트 함수
-    - [function_hoisting.js]()
-    - 
+    - [function_hoisting.js](https://github.com/choisohyun/js_freeschool/blob/master/2.%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%ED%95%A8%EC%88%98/function_hoisting.js)
+    - [function_call_by.js](https://github.com/choisohyun/js_freeschool/blob/master/2.%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%ED%95%A8%EC%88%98/function_call_by.js)
 3. 다각형의 넓이구하기
 4. 배열과 객체연습
 5. 할일관리프로그램
