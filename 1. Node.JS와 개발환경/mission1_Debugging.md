@@ -24,8 +24,10 @@
 ![](https://code.visualstudio.com/assets/docs/editor/debugging/watch.png)
 ##   call stack
 - Breakpoint를 다중으로 설정했을 때, 개별 세션이 실행될 때마다 최상위 요소로 표시되는 것  
-- call stack에서 다른 세선을 선택해 활성화시킬 수 있음
+![](https://miro.medium.com/max/600/1*E3zTWtEOiDWw7d0n7Vp-mA.gif)
+- call stack에서 다른 세선을 선택해 활성화시킬 수 있음  
 ![](https://code.visualstudio.com/assets/docs/editor/debugging/debug-callstack.png)
+- 참고: [Understanding Javascript Function Executions — Call Stack, Event Loop , Tasks & more](https://medium.com/@gaurav.pandvia/understanding-javascript-function-executions-tasks-event-loop-call-stack-more-part-1-5683dea1f5ec)
     
 ##   Step over
 -   단축키 : F10
