@@ -32,7 +32,7 @@ function call_by_ref() {
 
     change_obj(myCar); 
     x = myCar.make;
-    console.log(x);    //Toyota
+    console.log(x);    // Toyota
 }
 
 function change_obj(object) {

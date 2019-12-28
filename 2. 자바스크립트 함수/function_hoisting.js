@@ -2,6 +2,7 @@
 
 
 const firstname = "Choi";
+run();
 
 function printName(name) {
 	var myname = "gildong";
@@ -15,7 +16,6 @@ function run() {
     console.log(result);
 }
 
-run();
 
 
 
