@@ -20,7 +20,7 @@
 
 - 블록 스코프
     - 해당 블록의 스코프에서만 보이는 식별자(변수 숨기기)
-    - `let, const`로 식별자 선언
+    - `let, const`로 식별자 선언(`var`는 지원하지 않음)
     - 독립 블록도 사용 가능
     - 현실적으로 사용하는 경우는 별로 없음
 
@@ -48,12 +48,37 @@
 - 즉시 호출 함수 표현(IIFE)
     - `(function() {})();`
 
+- 함수 호이스팅
+    - 함수 선언을 스코프 맨 위로 끌어올림
+    - `변수에 할당한 함수 표현식`은 끌어올리지 않음
+
 - var로 선언된 변수
     - Hoisting(선언을 끌어올린다)을 따름
     - 함수, 전역 스코프 전체를 살펴보고 var로 선언한 변수를 맨 위로 끌어올림
     - 할당은 끌어올려지지 않음
     - 블록 단위를 사용할 때는 var보다 let을 쓰는 것 권장
+    - 재선언, 재할당 가능
+    ```
+    var name = 'sohyun';
+    var name = 'pengsoo'; //가능
+    name = 'gildong';   // 가능
+    ```
 
-- 함수 호이스팅
-    - 함수 선언을 스코프 맨 위로 끌어올림
-    - `변수에 할당한 함수 표현식`은 끌어올리지 않음
+
+- const로 선언된 변수
+    - 재선언, 재할당 불가
+    ```
+    const name = 'sohyun';
+    const name = 'pengsoo'; //SyntaxError
+    nams = 'gildong';   // TypeError
+    ```
+    - 배열, 객체 값 변경 가능
+
+- let으로 선언된 변수
+    - 재선언 불가, 재할당 가능
+    ```
+    let latte = 'sohyun';
+    let latte = 'pengsoo';  // SyntaxError
+    latte = 'gildong';  // 가능
+    ```
+
