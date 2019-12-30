@@ -1,7 +1,7 @@
 # :school: 코드스쿼드 마스터즈 과정 웹FE 프리스쿨
 > 코드스쿼드의 웹 Front-end 마스터즈 과정에 합류하기 전에 가이드에 따라 **자바스크립트 프로그래밍**을 공부합니다.  
 > 총 5개의 미션을 업로드합니다. README에 미션을 수행하면서 알게 된 내용도 함께 정리해 업로드합니다.  
-> 기간: 2019.12.18 ~ 2019.12.31
+> 기간: 2019.12.18 ~ 2020.01.01
 
 ## :pushpin: 미션 바로가기
 1. debugging 기술문서 정리
@@ -10,13 +10,15 @@
 - [mission2_function.js](https://github.com/choisohyun/js_freeschool/blob/master/2.%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%ED%95%A8%EC%88%98/mission2_function.js)
 - 추가미션: [mission2_additional.md](https://github.com/choisohyun/js_freeschool/blob/master/2.%20%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%20%ED%95%A8%EC%88%98/mission2_additional.md)
 3. getArea 함수 만들기  
-- []()
-4-1. 배열 만들기  
-4-2. 배열 결과 출력  
-4-3. myReduce 메서드 만들기  
-4-4. JavaScript set & map 정리  
-4-5. higher order functions의 메서드 체이닝  
-5-1. 할일관리 프로그램 만들기  
+- [mission3_getArea.js]()
+- 추가미션: [binary_search.js]()
+4. 배열 만들기
+- 배열 만들기  
+- 배열 결과 출력  
+- myReduce 메서드 만들기  
+- JavaScript set & map 정리  
+- higher order functions의 메서드 체이닝  
+5. 할일관리 프로그램 만들기  
 
 
 ## :memo: 알게 된 점 정리 바로가기
