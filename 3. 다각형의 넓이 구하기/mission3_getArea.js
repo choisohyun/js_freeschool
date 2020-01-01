@@ -64,7 +64,7 @@ const getRect = (width, height) => {
 const getTrape = (top, bottom, h) => {
     let area = (top + bottom) * h / 2;
     console.log(area);
-    printExecutionSequence(['trapezoid', area]);
+    printExecutionSequence('trapezoid', area);
 }
 
 

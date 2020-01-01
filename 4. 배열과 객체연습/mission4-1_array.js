@@ -28,7 +28,7 @@ const for_in = () => {
 
 
 // ==========================================================
-// 방법 2: Object.keys Object.values
+// 방법 2: forEach
 const obj_values = () => {
     let result = [];
 

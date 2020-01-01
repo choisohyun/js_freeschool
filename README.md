@@ -13,11 +13,13 @@
 - [mission3_getArea.js](https://github.com/choisohyun/js_freeschool/blob/master/3.%20%EB%8B%A4%EA%B0%81%ED%98%95%EC%9D%98%20%EB%84%93%EC%9D%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0/mission3_getArea.js)
 - 추가미션: [binary_search.js](https://github.com/choisohyun/js_freeschool/blob/master/3.%20%EB%8B%A4%EA%B0%81%ED%98%95%EC%9D%98%20%EB%84%93%EC%9D%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0/binary_search.js)
 4. 배열 만들기
-- 배열 만들기 : [mission4-1_array.js]()
-- 배열 결과 출력 : [mission4-2_array.js]()
-- myReduce 메서드 만들기 : [mission4-3_reduce.js]()
-- 추가미션: JavaScript set & map 정리 [mission4_additional.md]()
-5. 할일관리 프로그램 만들기  
+- 배열 만들기 : [mission4-1_array.js](https://github.com/choisohyun/js_freeschool/blob/master/4.%20%EB%B0%B0%EC%97%B4%EA%B3%BC%20%EA%B0%9D%EC%B2%B4%EC%97%B0%EC%8A%B5/mission4-1_array.js)
+- 배열 결과 출력 : [mission4-2_array.js](https://github.com/choisohyun/js_freeschool/blob/master/4.%20%EB%B0%B0%EC%97%B4%EA%B3%BC%20%EA%B0%9D%EC%B2%B4%EC%97%B0%EC%8A%B5/mission4-2_array.js)
+- myReduce 메서드 만들기 : [mission4-3_reduce.js](https://github.com/choisohyun/js_freeschool/blob/master/4.%20%EB%B0%B0%EC%97%B4%EA%B3%BC%20%EA%B0%9D%EC%B2%B4%EC%97%B0%EC%8A%B5/mission4-3_reduce.js)
+- 추가미션: JavaScript set & map 정리 [mission4_additional.md](https://github.com/choisohyun/js_freeschool/blob/master/4.%20%EB%B0%B0%EC%97%B4%EA%B3%BC%20%EA%B0%9D%EC%B2%B4%EC%97%B0%EC%8A%B5/mission4_additional.md)
+5. 할일관리 프로그램 만들기
+- [todos.js](https://github.com/choisohyun/js_freeschool/blob/master/5.%20%ED%95%A0%EC%9D%BC%EA%B4%80%EB%A6%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/todos.js)
+- [todos.md](https://github.com/choisohyun/js_freeschool/blob/master/5.%20%ED%95%A0%EC%9D%BC%EA%B4%80%EB%A6%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/todos.md)
 
 
 ## :memo: 알게 된 점 정리 바로가기
@@ -32,6 +34,4 @@
 - [function_rescursion.js](https://github.com/choisohyun/js_freeschool/blob/master/3.%20%EB%8B%A4%EA%B0%81%ED%98%95%EC%9D%98%20%EB%84%93%EC%9D%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0/function_rescursion.js)
 - [scope_example.js](https://github.com/choisohyun/js_freeschool/blob/master/3.%20%EB%8B%A4%EA%B0%81%ED%98%95%EC%9D%98%20%EB%84%93%EC%9D%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0/scope_example.js)
 - [function_array.js](https://github.com/choisohyun/js_freeschool/blob/master/3.%20%EB%8B%A4%EA%B0%81%ED%98%95%EC%9D%98%20%EB%84%93%EC%9D%B4%20%EA%B5%AC%ED%95%98%EA%B8%B0/function_array.js)
-4. 배열과 객체연습
-- [없음]
-5. 할일관리프로그램
+

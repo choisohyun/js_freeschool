@@ -22,7 +22,6 @@ const show = (obj) => {
 
 
 const showAll = () => {
-
     const status = data.reduce((result, element) => {
         let count = (result.has(element.status)) ? result.get(element.status)+1 : 1;
         result.set(element.status, count);
@@ -36,13 +35,7 @@ const showAll = () => {
 
 
 const showTodo = () => {
-
-    const list = data.reduce((result, element) => {
-        if (element.status === 'todo') {
-            result.push(element.name);
-        }
-        return result;
-    }, []);
+    const list = data.filter(e => e.status === 'todo').map(x => x.name);
 
     console.log(`todo리스트 : 총 ${list.length}건 : ${list.join(', ')}`);
 }

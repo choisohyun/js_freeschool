@@ -8,9 +8,9 @@
 - JavaScript의 `key, value pair`로 이루어진 컬렉션
 - `key`를 이용해 `value`를 `get, set` 가능
 ##### `key`  
-    - 중복 불가, 
-    - `string, symbol(ES6), object, function` 사용 가능, 
-    - `number` 사용 불가
+- 중복 불가, 
+- `string, symbol(ES6), object, function` 사용 가능, 
+- `number` 사용 불가
 
 ### Set
 - 중복을 허용하지 않는 데이터 집합
