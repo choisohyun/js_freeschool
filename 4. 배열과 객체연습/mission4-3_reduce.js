@@ -32,9 +32,3 @@ const words = [
 const longWords = myReduce(words, (a, w) => w.length > 6? a+" "+w : a, "").trim();
 console.log(longWords);
 // Output: Beachball Aardvark Wylophone November Chocolate Uniform
-let map = new Map();
-map.set('name', 'sohyun');
-map.set('age', 28);
-
-console.log(map);
-console.log(map.get('name'));
